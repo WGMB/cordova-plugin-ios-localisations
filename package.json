@@ -1,0 +1,21 @@
+{
+	"name": "cordova-plugin-ios-localisations",
+	"version": "1.0",
+	"description": "This plugin is used to localise your iOS app's contents & other assets like app permission texts.",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/WGMB/cordova-plugin-ios-localisations.git"
+	},
+	"keywords": [
+		"cordova",
+		"ios",
+		"permissions",
+		"strings",
+		"localisations"
+	],
+	"author": "WGMB",
+	"bugs": {
+		"url": "https://github.com/MBuchalik/cordova-plugin-ios-localisations/issues"
+	},
+	"homepage": "https://github.com/MBuchalik/cordova-plugin-ios-localisations#readme"
+}

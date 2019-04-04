@@ -1,0 +1,6 @@
+"NSLocationWhenInUseUsageDescription" = "La función de localización es necesario para determinar su ubicación.";
+"NSCameraUsageDescription" = "La función de cámera es necesario para hacer fotografias.";
+"NSPhotoLibraryUsageDescription" = "Acceso a sus fotos es necesario para seleccionar fotos de su biblioteca de fotos.";
+"NSPhotoLibraryAddUsageDescription" = "Acceso a sus fotos es necesario para guardar fotos en su biblioteca de fotos.";
+"NSFaceIDUsageDescription" = "Face ID permitirános iniciar sesión sin introducir su información.";
+"NSCalendarsUsageDescription" = "La función de calendario es necesario para guardar su evento de calendario.";
