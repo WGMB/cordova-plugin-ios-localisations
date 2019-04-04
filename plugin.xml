@@ -5,12 +5,12 @@
 	<repo>https://github.com/WGMB/cordova-plugin-ios-localisations.git</repo>
 
 	<platform name="ios">
-		<resource-file src="src/ios/DMCMediaPicker/en.lproj"/>
-		<resource-file src="src/ios/DMCMediaPicker/de.lproj"/>
-		<resource-file src="src/ios/DMCMediaPicker/es.lproj"/>
-		<resource-file src="src/ios/DMCMediaPicker/zh-Hans.lproj"/>
-		<resource-file src="src/ios/DMCMediaPicker/pt-BR.lproj"/>
-		<resource-file src="src/ios/DMCMediaPicker/pt-PT.lproj"/>
-		<resource-file src="src/ios/DMCMediaPicker/tr.lproj"/>
+		<resource-file src="src/ios/en.lproj"/>
+		<resource-file src="src/ios/de.lproj"/>
+		<resource-file src="src/ios/es.lproj"/>
+		<resource-file src="src/ios/zh-Hans.lproj"/>
+		<resource-file src="src/ios/pt-BR.lproj"/>
+		<resource-file src="src/ios/pt-PT.lproj"/>
+		<resource-file src="src/ios/tr.lproj"/>
 	</platform>
 </plugin>
