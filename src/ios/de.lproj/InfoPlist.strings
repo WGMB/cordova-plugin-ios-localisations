@@ -1,6 +1,6 @@
-"NSLocationWhenInUseUsageDescription" = "";
+"NSLocationWhenInUseUsageDescription" = "Ein Zugriff auf den Standort ist nötig, um Ihren aktuellen Standort zu bestimmen.";
 "NSCameraUsageDescription" = "Diese App benötigt Zugriff auf die Kamera, um Bilder aufnehmen zu können.";
 "NSPhotoLibraryUsageDescription" = "Diese App benötigt Zugriff auf das Fotoarchiv, um Bilder auswählen zu können.";
-"NSPhotoLibraryAddUsageDescription" = "";
-"NSFaceIDUsageDescription" = "";
-"NSCalendarsUsageDescription" = "";
+"NSPhotoLibraryAddUsageDescription" = "Diese App benötigt Zugriff auf das Fotoarchiv, um Bilder speichern zu können.";
+"NSFaceIDUsageDescription" = "Mit Face ID können Sie sich ohne E-Mail-Adresse und Passwort einloggen.";
+"NSCalendarsUsageDescription" = "Diese App benötigt Zugriff auf den Kalender, um den Termin im Kalender speichern zu können.";
