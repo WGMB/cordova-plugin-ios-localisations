@@ -3,7 +3,7 @@
 	"version": "1.0",
 	"description": "This plugin is used to localise your iOS app's contents & other assets like app permission texts.",
 	 "cordova": {
-	    "id": "cordova-plugin-googlemaps",
+	    "id": "cordova-plugin-ios-localisations",
 	    "platforms": [
 	      "ios"
 	    ]
