@@ -6,7 +6,7 @@
   version="1.0">
 	
 	<name>Cordova iOS Localisations</name>
-	<description>This plugin is used to localise your iOS app's contents & other assets like app permission texts.</description>
+	<description>This plugin is used to localise your iOS app's contents and other assets like app permission texts.</description>
 	<repo>https://github.com/WGMB/cordova-plugin-ios-localisations.git</repo>
 	<platform name="ios">
 		<resource-file src="src/ios/en.lproj"/>
