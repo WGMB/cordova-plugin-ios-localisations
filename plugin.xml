@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<plugin xmlns="http://www.phonegap.com/ns/plugins/1.0" id="cordova-plugin-ios-localisations" version="1.0">
+<plugin
+  xmlns="http://apache.org/cordova/ns/plugins/1.0"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  id="cordova-plugin-ios-localisations"
+  version="1.0">
+	
 	<name>Cordova iOS Localisations</name>
 	<description>This plugin is used to localise your iOS app's contents & other assets like app permission texts.</description>
 	<repo>https://github.com/WGMB/cordova-plugin-ios-localisations.git</repo>
