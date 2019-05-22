@@ -1,7 +1,7 @@
 {
   "name": "cordova-plugin-ios-localisations",
-  "description": "Cordova plugin to inject a dummy cookie in a WKWebView instance. This is necessary to get the sync process started.",
-  "version": "2.0",
+  "description": "This plugin is used to localise your iOS app contents and other assets like app permission texts.",
+  "version": "1.0.0",
   "author": "WGMB",
   "bugs": {
     "url": "https://github.com/WGMB/cordova-plugin-ios-localisations/issues"
@@ -14,19 +14,12 @@
   },
   "homepage": "https://github.com/WGMB/cordova-plugin-ios-localisations#readme",
   "keywords": [
-    "cookies",
     "cordova",
-    "ecosystem:cordova",
-    "first",
-    "get",
-    "init",
-    "install",
-    "plugin",
-    "sync",
-    "wkwebview"
+		"ios",
+		"permissions",
+		"strings",
+		"localisations"
   ],
-  "license": "Unlicense",
-  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/WGMB/cordova-plugin-ios-localisations.git"
