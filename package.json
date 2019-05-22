@@ -1,7 +1,7 @@
 {
   "name": "cordova-plugin-ios-localisations",
   "description": "Cordova plugin to inject a dummy cookie in a WKWebView instance. This is necessary to get the sync process started.",
-  "version": "1.0",
+  "version": "2.0",
   "author": "WGMB",
   "bugs": {
     "url": "https://github.com/WGMB/cordova-plugin-ios-localisations/issues"
