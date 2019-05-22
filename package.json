@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-ios-localisations",
-  "description": "This plugin is used to localise your iOS app contents and other assets like app permission texts.",
+  "description": "This plugin is used to localise your iOS app's contents and other assets like app permission texts.",
   "version": "1.0.0",
   "author": "WGMB",
   "bugs": {
