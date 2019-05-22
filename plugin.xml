@@ -13,12 +13,12 @@
 	    <engine name="cordova-ios" version=">=4.0.0" />
 	  </engines>
 	<platform name="ios">
-		<resource-file src="src/ios/en.lproj"/>
+<!-- 		<resource-file src="src/ios/en.lproj"/>
 		<resource-file src="src/ios/de.lproj"/>
 		<resource-file src="src/ios/es.lproj"/>
 		<resource-file src="src/ios/zh-Hans.lproj"/>
 		<resource-file src="src/ios/pt-BR.lproj"/>
 		<resource-file src="src/ios/pt-PT.lproj"/>
-		<resource-file src="src/ios/tr.lproj"/>
+		<resource-file src="src/ios/tr.lproj"/> -->
 	</platform>
 </plugin>
