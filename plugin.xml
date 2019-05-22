@@ -5,10 +5,15 @@
   id="cordova-plugin-ios-localisations"
   version="1.0">
 	<author>WGMB</author>
-	<name>Cordova iOS Localisations</name>
+	<name>CordovaLocalisations</name>
 	<description>This plugin is used to localise your iOS app's contents and other assets like app permission texts.</description>
 	<repo>https://github.com/WGMB/cordova-plugin-ios-localisations.git</repo>
 	<platform name="ios">
+		<config-file target="config.xml" parent="/*">
+		      <feature name="CordovaLocalisations">
+			<param name="ios-package" value="CordovaLocalisations" />
+		      </feature>
+		    </config-file>
  		<resource-file src="src/ios/en.lproj"/>
 		<resource-file src="src/ios/de.lproj"/>
 		<resource-file src="src/ios/es.lproj"/>
