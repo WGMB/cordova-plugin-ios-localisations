@@ -3,6 +3,7 @@
   "description": "This plugin is used to localise your iOS app's contents and other assets like app permission texts.",
   "version": "1.0.0",
   "author": "WGMB",
+  "main": "plugin.xml",
   "bugs": {
     "url": "https://github.com/WGMB/cordova-plugin-ios-localisations/issues"
   },
