@@ -1,5 +1,5 @@
 "NSLocationWhenInUseUsageDescription" = "Ein Zugriff auf den Standort ist nötig, um Ihren aktuellen Standort zu bestimmen.";
-"NSCameraUsageDescription" = "Diese App benötigt Zugriff auf die Kamera, um Bilder aufnehmen zu können.";
+"NSCameraUsageDescription" = "Diese App benötigt Zugriff auf die Kamera, um Fotos für das Profil- oder Anzeigenbild aufnehmen zu können.";
 "NSPhotoLibraryUsageDescription" = "Diese App benötigt Zugriff auf das Fotoarchiv, um Bilder auswählen zu können.";
 "NSPhotoLibraryAddUsageDescription" = "Diese App benötigt Zugriff auf das Fotoarchiv, um Bilder speichern zu können.";
 "NSFaceIDUsageDescription" = "Mit Face ID können Sie sich ohne E-Mail-Adresse und Passwort einloggen.";
