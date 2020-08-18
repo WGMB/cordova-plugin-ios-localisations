@@ -1,5 +1,5 @@
 "NSLocationWhenInUseUsageDescription" = "La función de localización es necesario para determinar su ubicación.";
-"NSCameraUsageDescription" = "La función de cámera es necesario para hacer fotografias.";
+"NSCameraUsageDescription" = "El acceso a la cámara es necesario para tomar fotos para su imagen de perfil y/o para las imágenes de su anuncio.";
 "NSPhotoLibraryUsageDescription" = "Acceso a sus fotos es necesario para seleccionar fotos de su biblioteca de fotos.";
 "NSPhotoLibraryAddUsageDescription" = "Acceso a sus fotos es necesario para guardar fotos en su biblioteca de fotos.";
 "NSFaceIDUsageDescription" = "Face ID permitirános iniciar sesión sin introducir su información.";
