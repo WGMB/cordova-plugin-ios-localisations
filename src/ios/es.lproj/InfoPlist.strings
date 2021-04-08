@@ -5,3 +5,4 @@
 "NSFaceIDUsageDescription" = "Face ID permitirános iniciar sesión sin introducir su información.";
 "NSCalendarsUsageDescription" = "La función de calendario es necesario para guardar su evento de calendario.";
 "NSUserTrackingUsageDescription" = "Este identificador se utilizará para ofrecerle anuncios personalizados.";
+"NSMicrophoneUsageDescription" = "Se necesita acceso al micrófono para grabar un video";
